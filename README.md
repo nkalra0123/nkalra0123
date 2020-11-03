@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning go,spring boot and micro services
 - 📚 Reading 
     * Designing Data-Intensive Applications
-    * Web[<img alt="WebRTC" width="22px" src="https://www.gstatic.com/devrel-devsite/prod/vf2803d8fceba443283ee4e8627acfcc1365957a4f42d24f2965d2cb7faab19ba/webrtc/images/lockup.svg" />][webrtc]RTC
+    * <img alt="WebRTC" width="100px" src="https://www.gstatic.com/devrel-devsite/prod/vf2803d8fceba443283ee4e8627acfcc1365957a4f42d24f2965d2cb7faab19ba/webrtc/images/lockup.svg" />][webrtc]
 
 
 ### Connect with me:

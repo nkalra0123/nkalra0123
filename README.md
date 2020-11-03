@@ -31,6 +31,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying Spring Boot project on GCP App Engine Standard](https://medium.com/@nkalra0123/deploying-spring-boot-project-on-gcp-app-engine-standard-4dfd5b169714?source=rss-c6ece434da22------2)
+- [Functional Interfaces in Java with Lamda and Method References](https://medium.com/@nkalra0123/functional-interfaces-in-java-with-lamda-and-method-references-53a6c7af4e97?source=rss-c6ece434da22------2)
+- [Building Google Lens Functionality with Spring Boot, Cloud Vision, and GCP](https://medium.com/@nkalra0123/building-google-lens-functionality-with-spring-boot-cloud-vision-and-gcp-2e69226d80f3?source=rss-c6ece434da22------2)
+- [MicroServices IPC](https://medium.com/@nkalra0123/microservices-ipc-a55598e11f2?source=rss-c6ece434da22------2)
+- [Split-Apks Extract & Share](https://medium.com/@nkalra0123/split-apks-extract-share-1c07109184ef?source=rss-c6ece434da22------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

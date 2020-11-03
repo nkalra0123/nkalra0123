@@ -1,15 +1,18 @@
-### Hi there, I'm Nitin Kalra, I work at BlueStacks[bluestacksWebsite] 👋
+### Hi there, I'm Nitin Kalra, I work at [BlueStacks] [bluestacksWebsite] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nkalra0123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnkalra0123&screen_name=nkalra0123)
 
 - 🌱 I’m currently learning go,spring boot and micro services
-- 🥅 2020 Goals: 
+- 📚 Reading 
+    * Designing Data-Intensive Applications
+    * Web[<img align="left" alt="WebRTC" width="22px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdevopedia.org%2Fimages%2Farticle%2F39%2F4276.1518788244.png&imgrefurl=https%3A%2F%2Fdevopedia.org%2Fwebrtc&tbnid=NPFLK9o31qtyRM&vet=12ahUKEwi2kpSl2-XsAhWVTSsKHS8EDwgQMygAegUIARChAQ..i&docid=DEYdPiN5RFR3VM&w=255&h=305&q=webrtc&hl=en-GB&ved=2ahUKEwi2kpSl2-XsAhWVTSsKHS8EDwgQMygAegUIARChAQ" />][webrtc]RTC
+
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -43,10 +46,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=nkalra0123&show_icons=true&hide_border=true" />
+  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nkalra0123&show_icons=true&hide_border=true" />
 
 </details>
 
 [bluestacksWebsite]: https://bluestacks.com
 [twitter]: https://twitter.com/nkalra0123
-[linkedin]: https://linkedin.com/in/nkalra0123
+[webrtc]: https://webrtc.org/
+[linkedin]: https://linkedin.com/in/nitin-kalra-b5480947

@@ -20,7 +20,7 @@
 <p align="left"> 
 
 <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/c-2975.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://golang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="go" width="40" height="40"/> </a> 
 <a href="https://developer.android.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a> 
 

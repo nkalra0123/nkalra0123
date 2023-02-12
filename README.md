@@ -1,11 +1,10 @@
-### Hi there, I'm Nitin Kalra, I work at [BlueStacks][bluestacksWebsite] 👋
+### Hi there, I'm Nitin Kalra, I work at [Paytm][paytmWebsite] 👋
+
+Before joining Paytm, I worked at [now.gg][now_gg_website], where i worked on creating the cloud gaming platform from scratch, and scaling it to millions of gaming session
+
+Before now.gg, I worked at [Bluestacks][bluestacksWebsite]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nkalra0123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fnkalra0123&screen_name=nkalra0123)
-
-- 🌱 I’m currently learning go,spring boot and micro services
-- 📚 Reading 
-    * Designing Data-Intensive Applications
-    * [<img alt="WebRTC" width="100px" src="https://www.gstatic.com/devrel-devsite/prod/vf2803d8fceba443283ee4e8627acfcc1365957a4f42d24f2965d2cb7faab19ba/webrtc/images/lockup.svg" />][webrtc]
 
 
 ### Connect with me:
@@ -58,7 +57,9 @@
 
 </details>
 
+[paytmWebsite]: https://paytm.com/
 [bluestacksWebsite]: https://bluestacks.com
+[now_gg_website]: https://now.gg
 [twitter]: https://twitter.com/nkalra0123
 [webrtc]: https://webrtc.org/
 [stackoverflow]: https://stackoverflow.com/users/2773112/nkalra0123
